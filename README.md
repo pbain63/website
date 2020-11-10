@@ -1,4 +1,4 @@
-# My Website
+## My Website
 
 This is a really awesome website
 Updates made on master on GitHub before rebase
@@ -12,4 +12,4 @@ The purpose of this file is to provide examples
 on how to use Git and GitHub together.
 
 ## Getting started
-To get started with this project, just `clone` this repository.
+To get started with this project, just `clone` this repository and surface further
