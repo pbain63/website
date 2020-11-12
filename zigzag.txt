@@ -1,4 +1,7 @@
-#Simple Zigzag program
+
+#Zigzag program
+#for python
+
 import time, sys
 indent = 0
 indentIncreasing = True
